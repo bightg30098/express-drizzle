@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1688224233999,
+      "tag": "0000_lively_omega_sentinel",
+      "breakpoints": true
+    }
+  ]
+}
